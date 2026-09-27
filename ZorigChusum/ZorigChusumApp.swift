@@ -1,10 +1,3 @@
-//
-//  ZorigChusumApp.swift
-//  ZorigChusum
-//
-//  Created by iMac24 on 9/22/26.
-//
-
 import SwiftUI
 
 @main
